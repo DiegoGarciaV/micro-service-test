@@ -1,4 +1,4 @@
-Instrucciones de ejecicioon:
+Instrucciones de ejecución:
 
     1.- Colocarse en la raiz del proyecto, ejecutar el siguiente comando: 
 
